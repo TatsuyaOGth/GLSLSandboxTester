@@ -1,2 +1,1 @@
-ofxGLSLSandbox
-==============
+GLSL Sandbox tester for openFrameworks
