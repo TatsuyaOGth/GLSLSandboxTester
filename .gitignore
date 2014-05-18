@@ -1,21 +1,11 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# .gitignore
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/default.*
+*/*xcodeproj/*.xcworkspace/
+*/*.xcodeproj/xcshareddata/
+*/*.xcodeproj/xcuserdata/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
 *.app
+build/
+
